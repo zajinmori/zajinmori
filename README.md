@@ -3,7 +3,6 @@
 <div align = "center">
   <h2>🧙‍♂️ 𝑴𝒚 𝑺𝒌𝒊𝒍𝒍𝒔 🧙‍♂️</h2>
 
-
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white&label=">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&label=">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white&label=">
