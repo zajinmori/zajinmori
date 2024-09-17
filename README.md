@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&letterSpacing=2px&pause=1000&color=2A8A20&center=%EC%A7%84%EC%8B%A4&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Welcome!+this+is+zajinmori." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=4000&color=21C43E&center=&vCenter=&repeat=&random=&width=435&lines=Welcome!;this+is+zajinmori." alt="Typing SVG" /></a>
