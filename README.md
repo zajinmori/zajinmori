@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&duration=2000&color=21C43E&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&multiline=true&repeat=%EC%A7%84%EC%8B%A4&random=&width=436&height=102&lines=Welcome!;this+is+zajinmori.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2000&color=21C43E&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&multiline=true&repeat=%EA%B1%B0%EC%A7%93&random=&width=436&height=102&lines=Welcome!;this+is+zajinmori.)](https://git.io/typing-svg)
