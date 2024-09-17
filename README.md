@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=60&duration=2000&color=21C43E&multiline=true&random=&width=436&height=130&lines=Welcome!;this+is+zajinmori.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=60&duration=2000&pause=900&color=21C43E&center=true&multiline=true&random=&width=425&height=130&lines=Welcome!;this+is+zajinmori.)](https://git.io/typing-svg)
