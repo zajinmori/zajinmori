@@ -45,7 +45,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zajinmori&show_icons=true&theme=codeSTACKr)
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zajinmori&theme=darcula&show_icons=true)
     </div>
        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zajinmori&layout=compact&theme=codeSTACKr)
     </div>
