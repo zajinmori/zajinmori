@@ -7,7 +7,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;" margin: 0; padding: 0;> Programming Language </h3> <br> 
+    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9; margin: 0; padding: 0;"> Programming Language </h3> <br> 
     <div style="margin: 0 auto; text-align: center; padding: 0;" align= "center"> 
           <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
            <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
