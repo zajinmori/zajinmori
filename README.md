@@ -29,12 +29,13 @@
     </div>
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Collaboration & Tools </h3> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">        
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
-         <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
         <img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=Eclipse&logoColor=white">
          <img src="https://img.shields.io/badge/VSCode-003791?style=plastic&logo=Visual Studio Code&logoColor=white">
          <img src="https://img.shields.io/badge/intellijidea-000000?style=plastic&logo=IntelliJ IDEA&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
+         <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
     </div>
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Server </h3> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">     
