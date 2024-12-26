@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">  </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9; margin: 0; padding: 0;"> Programming Language </h3>
     <div style="margin: 0 auto; text-align: center; padding: 0;" align= "center"> 
           <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
@@ -42,6 +42,7 @@
           <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
          <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
     </div>
+        <br>
    <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
     <div align= "center">
