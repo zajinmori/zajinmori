@@ -43,11 +43,15 @@
           <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white">
     </div>
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zajinmori&theme=darcula&show_icons=true)
+   <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
+    <div align= "center">
+        <img src="https://github-readme-stats.vercel.app/api?username=zajinmori&theme=darcula&show_icons=true" />
     </div>
-       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zajinmori&layout=compact&theme=codeSTACKr)
+    <div align= "center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zajinmori&layout=compact&theme=codeSTACKr" />
     </div>
+</div>
+
     
     
