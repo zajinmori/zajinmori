@@ -27,6 +27,11 @@
     <div style="margin: 0 auto; text-align: center; padding: 0;" align= "center">     
            <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white">
     </div>
+        <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9; margin: 0; padding: 0;"> Server </h3>
+    <div style="margin: 0 auto; text-align: center; padding: 0;" align= "center">     
+          <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=white">
+          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white">
+    </div>
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9; margin: 0; padding: 0;"> Collaboration & Tools </h3>
     <div style="margin: 0 auto; text-align: center; padding: 0;" align= "center">        
         <img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=Eclipse&logoColor=white">
@@ -37,11 +42,7 @@
           <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
          <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
     </div>
-    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9; margin: 0; padding: 0;"> Server </h3>
-    <div style="margin: 0 auto; text-align: center; padding: 0;" align= "center">     
-          <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white">
-    </div>
+    
     </div>
    <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
