@@ -27,7 +27,7 @@
     <div style="margin: 0 auto; text-align: center;" align= "center">     
            <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white">
     </div>
-    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Collaboration </h3> <br> 
+    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Collaboration & Tools </h3> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">        
           <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
