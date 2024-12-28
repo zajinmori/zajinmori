@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=020d64&height=180&text=Welcome!%20This%20is%20zajinmori&animation=fadeIn&fontColor=ff5900&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=020d64&height=180&text=Welcome!%20This%20is%20woojin&animation=fadeIn&fontColor=ff5900&fontSize=60" />
     </div>
     <br>
     <div align= "center"> 
